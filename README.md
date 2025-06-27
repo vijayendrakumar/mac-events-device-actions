@@ -32,4 +32,5 @@ Listens to iPhone realtime events and print the event info.
     ideviceinstaller -U <add bundle id here
      ```
 
- <img width="592" alt="Screenshot 2025-06-27 at 10 09 36 PM" src="https://github.com/user-attachments/assets/e86f26d9-f7ee-4d40-b613-3baa8024d3bc" />
+ <img width="592" alt="Screenshot 2025-06-27 at 10 09 36 PM" src="https://github.com/user-attachments/assets/1a06d392-c1a8-4772-bb49-5ad1522b04b1" />
+
